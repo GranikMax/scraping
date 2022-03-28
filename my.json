@@ -1,0 +1,229 @@
+{
+   "artist": {
+      "name": "Linkin Park",
+      "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "url": "https://www.last.fm/music/Linkin+Park",
+      "image": [
+         {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "small"
+         },
+         {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "medium"
+         },
+         {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "large"
+         },
+         {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "extralarge"
+         },
+         {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": "mega"
+         },
+         {
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "size": ""
+         }
+      ],
+      "streamable": "0",
+      "ontour": "0",
+      "stats": {
+         "listeners": "4530654",
+         "playcount": "345562162"
+      },
+      "similar": {
+         "artist": [
+            {
+               "name": "Dead By Sunrise",
+               "url": "https://www.last.fm/music/Dead+By+Sunrise",
+               "image": [
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "small"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "medium"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "large"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "extralarge"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "mega"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": ""
+                  }
+               ]
+            },
+            {
+               "name": "Mike Shinoda",
+               "url": "https://www.last.fm/music/Mike+Shinoda",
+               "image": [
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "small"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "medium"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "large"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "extralarge"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "mega"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": ""
+                  }
+               ]
+            },
+            {
+               "name": "Chester Bennington",
+               "url": "https://www.last.fm/music/Chester+Bennington",
+               "image": [
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "small"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "medium"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "large"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "extralarge"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "mega"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": ""
+                  }
+               ]
+            },
+            {
+               "name": "Jay-Z and Linkin Park",
+               "url": "https://www.last.fm/music/Jay-Z+and+Linkin+Park",
+               "image": [
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "small"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "medium"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "large"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "extralarge"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "mega"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": ""
+                  }
+               ]
+            },
+            {
+               "name": "Papa Roach",
+               "url": "https://www.last.fm/music/Papa+Roach",
+               "image": [
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "small"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "medium"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "large"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "extralarge"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": "mega"
+                  },
+                  {
+                     "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+                     "size": ""
+                  }
+               ]
+            }
+         ]
+      },
+      "tags": {
+         "tag": [
+            {
+               "name": "rock",
+               "url": "https://www.last.fm/tag/rock"
+            },
+            {
+               "name": "Nu Metal",
+               "url": "https://www.last.fm/tag/Nu+Metal"
+            },
+            {
+               "name": "alternative rock",
+               "url": "https://www.last.fm/tag/alternative+rock"
+            },
+            {
+               "name": "alternative",
+               "url": "https://www.last.fm/tag/alternative"
+            },
+            {
+               "name": "metal",
+               "url": "https://www.last.fm/tag/metal"
+            }
+         ]
+      },
+      "bio": {
+         "links": {
+            "link": {
+               "#text": "",
+               "rel": "original",
+               "href": "https://last.fm/music/Linkin+Park/+wiki"
+            }
+         },
+         "published": "11 Feb 2006, 14:13",
+         "summary": "Linkin Park is an American rock band from Agoura Hills, California. The band's current lineup comprises vocalist/keyboardist/rhythm guitarist Mike Shinoda, lead guitarist Brad Delson, bassist Dave Farrell, DJ/keyboardist Joe Hahn, and drummer Rob Bourdon, all of whom are founding members. Vocalists Mark Wakefield and Chester Bennington and bassist Kyle Christner are former members of the band.\n\nFormed in 1996, Linkin Park rose to international fame with their debut studio album <a href=\"https://www.last.fm/music/Linkin+Park\">Read more on Last.fm</a>",
+         "content": "Linkin Park is an American rock band from Agoura Hills, California. The band's current lineup comprises vocalist/keyboardist/rhythm guitarist Mike Shinoda, lead guitarist Brad Delson, bassist Dave Farrell, DJ/keyboardist Joe Hahn, and drummer Rob Bourdon, all of whom are founding members. Vocalists Mark Wakefield and Chester Bennington and bassist Kyle Christner are former members of the band.\n\nFormed in 1996, Linkin Park rose to international fame with their debut studio album, Hybrid Theory (2000), which was certified diamond by the RIAA in 2005, and multi-platinum in several other countries. Their second album, Meteora (2003), continued the band's success, topping the Billboard 200 album chart in 2003, and was followed by extensive touring and charity work. Having adapted nu metal and rap metal to a radio-friendly yet densely layered style in their first two albums, the band explored other genres on their third album, Minutes to Midnight (2007). The album topped the Billboard charts and had the third-best debut week of any album that year.\n\nLinkin Park continued to explore a wider variation of musical types in their fourth album, A Thousand Suns (2010), layering their music with more electronic sounds. The band's fifth album, Living Things (2012), combined musical elements from all of their previous records. Their sixth album, The Hunting Party (2014), returned to a heavier rock sound, and their seventh album, One More Light (2017), is a more electronic and pop-oriented record.\n\nLinkin Park is among the best-selling bands of the 21st century and the world's best-selling music artists overall, having sold more than 70 million albums worldwide. They have won two Grammy Awards, six American Music Awards, four MTV Video Music Awards and three World Music Awards. In 2003, MTV2 named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium. Billboard ranked Linkin Park No. 19 on the Best Artists of the Decade chart. In 2012, the band was voted as the greatest artist of the 2000s in a Bracket Madness poll on VH1. In 2014, the band was declared as \"The Biggest Rock Band in the World Right Now\" by Kerrang!.\n\nLinkin Park went into an indefinite hiatus after longtime lead vocalist Bennington died from suicide on July 20, 2017. \n\nLinkin Park was founded by three high school friends: Mike Shinoda, Rob Bourdon, and Brad Delson. The three attended Agoura High School in Agoura Hills, California, a suburb of Los Angeles. After graduating from high school, the three began to take their musical interests more seriously, recruiting Joe Hahn, Dave \"Phoenix\" Farrell, and Mark Wakefield to perform in their band, then called Xero. Though limited in resources, the band began recording and producing songs within Shinoda's makeshift bedroom studio in 1996, resulting in a four-track demo tape, entitled Xero. Tensions and frustration within the band grew however after they failed to land a record deal. The lack of success and stalemate in progress prompted Wakefield, at that time the band's vocalist, to leave the band in search of other projects. Farrell also left to tour with Tasty Snax, a Christian punk and ska band.\n\nAfter spending a considerable time searching for Wakefield's replacement, Xero recruited Arizona vocalist Chester Bennington, who was recommended by Jeff Blue, the vice president of Zomba Music in March 1999. Bennington, formerly of a post-grunge band Grey Daze, became a standout among applicants because of the dynamic in his singing style. The band then agreed on changing their name from Xero to Hybrid Theory; the newborn vocal chemistry between Shinoda and Bennington helped revive the band, inciting them to work on new material. In 1999 the band released a self-titled extended play, which they circulated across internet chat-rooms and forums with the help of an online 'street team'.\n\nThe band's renaissance culminated with another change in name, this time to Linkin Park, a play on and homage to Santa Monica's Lincoln Park, now called Christine Emerson Reed Park. The band initially wanted to use the name \"Lincoln Park\", however they changed it to \"Linkin\" to acquire the internet domain \"linkinpark.com\". The band still struggled to sign a record deal. Linkin Park turned to Jeff Blue for additional help after facing numerous rejections from several major record labels. After failing to catch Warner Bros. Records on three previous reviews, Jeff Blue, who had negotiated his employment contract with Warner Brothers to include signing Linkin Park, and was now the vice president of Warner Bros. Records, helped the band sign a deal with the company in 1999. Farrell returned the following year and the band released their breakthrough album, Hybrid Theory.\n\nLinkin Park has sold more than 100 million records. The group's first studio album Hybrid Theory is one of the best-selling albums in the US (11 million copies shipped) and worldwide (30 million copies sold). Billboard estimates that Linkin Park earned US$5 million between May 2011 and May 2012, making them the 40th-highest-paid musical artist. 11 of the band's singles have reached the number one position on Billboard's Alternative Songs chart, the second-most for any artist.\n\nIn 2003, MTV2 named Linkin Park the sixth-greatest band of the music video era and the third-best of the new millennium. Billboard ranked Linkin Park No. 19 on the Best Artists of the Decade chart. The band was recently voted as the greatest artist of the 2000s in a Bracket Madness poll on VH1. In 2014, the band was declared as the Biggest Rock Band in the World Right Now by Kerrang!. In 2015, Kerrang! gave \"In the End\" and \"Final Masquerade\" the top two positions on Kerrang!'s Rock 100 list.\n\nLinkin Park became the first rock band to achieve more than one billion YouTube hits. Linkin Park also became the fifteenth most liked page on Facebook, tenth most liked artist, and most liked group followed by the Black Eyed Peas. Linkin Park's \"Numb\" is the third and \"In the End\" is the sixth \"timeless song\" on Spotify. The two songs make Linkin Park the only artist to have two timeless songs in top ten.\n\nHybrid Theory by the group is listed in the book 1001 Albums You Must Hear Before You Die, It was also ranked at #11 on Billboard's Hot 200 Albums of the Decade. In addition the album was included in Best of 2001 by Record Collector, The top 150 Albums of the Generation by Rock Sound and 50 Best Rock Albums of the 2000's by Kerrang!. The album Meteora was included in Top 200 Albums of the Decade by Billboard at #36. The album sold 20 million copies worldwide. The collaborated EP Collision Course with Jay-Z, became the second ever EP to top the Billboard 200, going on to sell over 300,000 copies in its first week after Alice in Chains' Jar of Flies in 1994. The album Minutes to Midnight in the United States, the album had the biggest first week sales of 2007 at the time, with 625,000 albums sold. In Canada, the album sold over 50,000 copies in its first week and debuted at number one on the Canadian Albums Chart. Worldwide, the album shipped over 3.3 million copies in its first four weeks of release. <a href=\"https://www.last.fm/music/Linkin+Park\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+      }
+   }
+}
